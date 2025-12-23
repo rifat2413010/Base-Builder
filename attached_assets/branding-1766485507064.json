@@ -1,0 +1,133 @@
+{
+  "colorScheme": "light",
+  "fonts": [
+    {
+      "family": "sans-serif",
+      "count": 53
+    },
+    {
+      "family": "Hind Siliguri",
+      "count": 48
+    },
+    {
+      "family": "ui-sans-serif",
+      "count": 3
+    },
+    {
+      "family": "system-ui",
+      "count": 3
+    },
+    {
+      "family": "Apple Color Emoji",
+      "count": 3
+    },
+    {
+      "family": "Segoe UI Emoji",
+      "count": 3
+    },
+    {
+      "family": "Segoe UI Symbol",
+      "count": 3
+    },
+    {
+      "family": "Noto Color Emoji",
+      "count": 3
+    },
+    {
+      "family": "-apple-system",
+      "count": 2
+    },
+    {
+      "family": "BlinkMacSystemFont",
+      "count": 2
+    }
+  ],
+  "colors": {
+    "primary": "#FFF8F0",
+    "accent": "#4A2C2A",
+    "background": "#FFFFFF",
+    "textPrimary": "#4A2C2A",
+    "link": "#4A2C2A"
+  },
+  "typography": {
+    "fontFamilies": {
+      "primary": "ui-sans-serif",
+      "heading": "Hind Siliguri"
+    },
+    "fontStacks": {
+      "body": [
+        "ui-sans-serif",
+        "system-ui",
+        "sans-serif",
+        "Apple Color Emoji",
+        "Segoe UI Emoji",
+        "Segoe UI Symbol",
+        "Noto Color Emoji"
+      ],
+      "heading": [
+        "Hind Siliguri",
+        "sans-serif"
+      ],
+      "paragraph": [
+        "Hind Siliguri",
+        "sans-serif"
+      ]
+    },
+    "fontSizes": {
+      "h1": "60px",
+      "h2": "48px",
+      "body": "20px"
+    }
+  },
+  "spacing": {
+    "baseUnit": 4,
+    "borderRadius": "12px"
+  },
+  "components": {
+    "input": {
+      "background": "#FFFFFF",
+      "textColor": "#09090B",
+      "borderColor": "#F2E4D5",
+      "borderRadius": "12px",
+      "borderRadiusCorners": {
+        "topLeft": "12px",
+        "topRight": "12px",
+        "bottomRight": "12px",
+        "bottomLeft": "12px"
+      },
+      "shadow": "none"
+    }
+  },
+  "images": {
+    "logo": "File saved at: attached_assets/logo.png",
+    "favicon": "File saved at: attached_assets/favicon.bin",
+    "ogImage": "File saved at: attached_assets/ogImage.bin"
+  },
+  "__framework_hints": [
+    "tailwind"
+  ],
+  "__llm_logo_reasoning": {
+    "selectedIndex": 1,
+    "reasoning": "Logo rejected: Red flags detected (small square icon). Heuristic fallback: Weak indicators: variant bonus (+8), no link (brand logos usually link to homepage, penalty), visible, src contains logo, too small (likely icon, penalty), small square icon (likely UI icon, heavy penalty), body location without header (penalty). Score: -17. LLM validation recommended (close scores: top=-17, second=0)",
+    "confidence": 0.30000000000000004,
+    "rejected": true
+  },
+  "__llm_button_reasoning": {
+    "primary": {
+      "index": -1,
+      "text": "N/A",
+      "reasoning": "LLM failed"
+    },
+    "secondary": {
+      "index": -1,
+      "text": "N/A",
+      "reasoning": "LLM failed"
+    },
+    "confidence": 0
+  },
+  "confidence": {
+    "buttons": 0,
+    "colors": 0,
+    "overall": 0
+  }
+}

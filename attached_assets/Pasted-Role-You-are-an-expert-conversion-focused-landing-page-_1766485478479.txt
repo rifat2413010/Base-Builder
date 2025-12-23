@@ -1,0 +1,149 @@
+Role: You are an expert conversion-focused landing page designer and Bangla copywriter. Your task is to create a gorgeous, premium, high-converting sales landing page for a খাঁটি খেজুরের গুড় product.
+
+🔤 FONT & LANGUAGE (STRICT RULE)
+
+All text language: বাংলা
+
+Primary font: “Hind Siliguri” (use everywhere)
+
+Clean hierarchy, premium spacing, smooth readability
+
+🎯 Product Overview
+
+Product Name: খাঁটি খেজুরের গুড়
+
+Category: Natural Food / Traditional Product
+
+Brand Feel: Premium | Pure | Traditional | Trustworthy
+
+Goal: Direct Order via Checkout Form
+
+🎨 DESIGN STYLE
+
+Color palette: গাঢ় বাদামি, মধু রঙ, হালকা ক্রিম
+
+Soft shadow, glassy cards
+
+Smooth scroll animation (fade, slide, zoom)
+
+Mobile-first, ultra responsive
+
+Premium micro-interactions on buttons & form
+
+🖼️ IMAGE ASSETS (USE PROPERLY)
+
+Product Image (Hero): http://urfx.c0m.in/wp-content/uploads/2025/12/khejur-gur.jpg
+
+Nature / Source Background: http://urfx.c0m.in/wp-content/uploads/2025/12/palm-tree.jpg
+
+Purity Icon / Accent: http://urfx.c0m.in/wp-content/uploads/2025/12/bee-clipart-transparent-15-scaled.png
+
+Traditional Making Process: http://urfx.c0m.in/wp-content/uploads/2025/12/making.jpg
+
+🧩 LANDING PAGE STRUCTURE 🔥 1️⃣ HERO SECTION
+
+Headline (Bold, Premium): “খাঁটি খেজুরের গুড় — শীতের আসল স্বাদ”
+
+Sub-headline: “গ্রামবাংলার ঐতিহ্যবাহী পদ্ধতিতে তৈরি, শতভাগ খাঁটি ও প্রাকৃতিক”
+
+CTA Button: 👉 এখনই অর্ডার করুন
+
+Trust badges:
+
+✔️ কেমিক্যাল মুক্ত
+
+✔️ ভেজালহীন
+
+✔️ ঐতিহ্যবাহী প্রক্রিয়ায় তৈরি
+
+Hero image with soft glow & depth.
+
+🌿 2️⃣ কেন আমাদের খেজুরের গুড়
+
+4-column premium cards:
+
+🌴 খেজুর গাছ থেকে সরাসরি সংগ্রহ
+
+🔥 চুলায় ধীরে ধীরে জ্বাল দেওয়া
+
+🍯 চিনি বা মিক্স ছাড়া
+
+🧪 কোনো প্রিজারভেটিভ নেই
+
+Short emotional Bangla copy under each.
+
+🔥 3️⃣ যেভাবে তৈরি হয়
+
+Use making.jpg
+
+Title: “যেভাবে তৈরি হয় আমাদের খেজুরের গুড়”
+
+Text content (storytelling tone): “শীতের সকালে খেজুরের রস সংগ্রহ করে, অভিজ্ঞ কারিগরদের হাতে ধীরে ধীরে জ্বাল দিয়ে তৈরি করা হয় আমাদের খাঁটি খেজুরের গুড়।”
+
+Scroll animation enabled.
+
+🌴 4️⃣ প্রকৃতি ও বিশুদ্ধতা
+
+Background: palm-tree.jpg
+
+Overlay text: “প্রকৃতির কাছ থেকে, সরাসরি আপনার পরিবারের জন্য”
+
+Use bee icon as purity symbol. Soft parallax effect.
+
+⭐ 5️⃣ ক্রেতাদের মতামত
+
+3 testimonial cards (Bangla):
+
+“অনেকদিন পর আসল খেজুরের গুড় পেলাম। স্বাদ এক কথায় অসাধারণ।”
+
+“ভেজাল নেই, গন্ধেই বোঝা যায় খাঁটি।”
+
+“পরিবারের সবাই খুব পছন্দ করেছে।”
+
+Star rating visuals.
+
+🛒 6️⃣ CHECKOUT / ORDER FORM Title:
+
+“অর্ডার করতে নিচের ফর্মটি পূরণ করুন”
+
+Form Fields:
+
+আপনার নাম
+
+মোবাইল নাম্বার
+
+ঠিকানা / লোকেশন
+
+Delivery Option (Radio Buttons):
+
+✅ ঢাকার ভিতরে ডেলিভারি — ৳৫০
+
+✅ ঢাকার বাইরে ডেলিভারি — ৳১০০
+
+Auto-highlight selected option.
+
+CTA Button:
+
+🟢 কনফার্ম অর্ডার করুন
+
+Sticky button on mobile.
+
+🔔 7️⃣ FINAL CTA
+
+“শীতের আসল স্বাদ মিস করবেন না” Large glowing button: 👉 আজই খাঁটি খেজুরের গুড় অর্ডার করুন
+
+⚙️ TECH & UX
+
+Fast loading
+
+SEO friendly
+
+WhatsApp click-to-order
+
+Secure & trustworthy layout
+
+Clean premium UI
+
+✅ FINAL OUTPUT REQUIREMENT
+
+Deliver a complete, production-ready, premium Bangla sales landing page using Hind Siliguri font, optimized for maximum conversion.
