@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { ArrowRight, CheckCircle, ShieldCheck, Leaf } from "lucide-react";
-import heroImage from "@assets/generated_images/traditional_bengali_date_molasses_(khejur_gur).png";
+import heroImage from "@assets/unnamed_(8)_1766573220793.jpg";
 
 export default function Hero() {
   const scrollToOrder = () => {
